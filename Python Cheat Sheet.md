@@ -89,10 +89,10 @@ This will define a class called `MyClass` this class has a constructor and a sin
 
 ```python
 
-me = MyClass("name", 20)
+me = MyClass("Lufter", 18)
 
 me.print_details()
 
 ```
 
-This will create an instance of `MyClass` with a name and age, and it will call the `print_details` method which will print `Name: name, Age: 20`.
+This will create an instance of `MyClass` with a name and age, and it will call the `print_details` method which will print `Name: Lufter, Age: 18`.
