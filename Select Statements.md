@@ -58,4 +58,17 @@ if (condition):
 
 ```
 
-Nested statements allow you to seperate the logic of if
+Nested statements allow you to seperate the logic of if statements into multiple levels instead of including all the logic for a single situation into a signle if statement.
+
+
+### Conditions and Operators
+
+Conditions in each statement can be combined using [[ Python Cheat Sheet#Operators | operators ]] as they return booleans.
+
+```python
+
+if (condition && other_condition):
+
+	# Run some code
+
+```
