@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Datatypes.md",
-            "mode": "preview"
+            "file": "Python Cheat Sheet.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datatypes.md"
+                "file": "Python Cheat Sheet.md"
               }
             }
           }
@@ -76,8 +76,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Datatypes.md",
     "Python Cheat Sheet.md",
+    "Datatypes.md",
     "Select Statements.md",
     "Variable Assignment.md",
     "Iteration Statements.md",
