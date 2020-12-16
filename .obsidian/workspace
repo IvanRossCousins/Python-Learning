@@ -1,0 +1,84 @@
+{
+  "main": {
+    "id": "9cb0f22e1a1af42a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f97ab7da3c9d847",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Variable Assignment.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a77c0b04b9e2e3e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e8fe8759ed3a714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce909b9b1e8b1ce9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b03f902dcf92446",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c41f21559622c22",
+    "type": "split",
+    "children": [
+      {
+        "id": "997350a49e31823f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc8b098db35c870",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Variable Assignment.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Variable Assignment.md",
+    "Select Statements.md",
+    "Python Intro.md",
+    "Untitled.md"
+  ]
+}
