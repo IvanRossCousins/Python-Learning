@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Variable Assignment.md",
+            "file": "Python Cheat Sheet.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variable Assignment.md"
+                "file": "Python Cheat Sheet.md"
               }
             }
           }
@@ -76,9 +76,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Python Cheat Sheet.md",
+    "Classes.md",
+    "Function Definitions.md",
+    "Iteration Statements.md",
+    "Datatypes.md",
+    "Python Intro.md",
     "Variable Assignment.md",
     "Select Statements.md",
-    "Python Intro.md",
     "Untitled.md"
   ]
 }

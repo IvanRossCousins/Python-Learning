@@ -16,7 +16,7 @@ bool_variable_ = True
 
 ```
 
-Variables in python can take a multitide of data types including the simple datatypes above (string, integer, float, boolean). Find more information at [[ Variable Assignment ]].
+Variables in python can take a multitide of data types including the simple [[ Datatypes | datatypes ]] above (string, integer, float, boolean). Find more information at [[ Variable Assignment ]].
 
 
 ### [[ Select Statements ]]
@@ -59,6 +59,40 @@ A function allows you to segment code and apply it wherever necessary without th
 
 ```python
 
-def 
+def function_name(attribute):
+	
+	# Function code
 
 ```
+
+The function above is called `function_name` and it has 1 attribute called `attribute` attached to it. To run this function I need to call `function_name(attribute)` and replace `attribute` with a variable I want to use within the function.
+
+
+### [[ Classes ]]
+
+A class in python abstract the logic pertaining to a single real-world parallel this way we can use classes to section thge logic we ned to perform a task.
+
+```python
+
+class MyClass:
+
+	def __init__(self, name, age):
+		self.name = name
+		self.age = age
+	
+	def print_details():
+		print("Name: " + self.name + ", Age: " + str(self.age))
+
+```
+
+This will define a class called `MyClass` this class has a constructor and a single mathod called `print_details`. These can be used as follows:
+
+```python
+
+me = MyClass("name", 20)
+
+me.print_details()
+
+```
+
+This will create an instance of `MyClass` with a name and age, and it will call the `print_details` method which will print `Name: name, Age: 20`.
