@@ -1,6 +1,6 @@
 # Python Cheat Sheet
 
-### [[ Variable Assignment ]]
+### Variable Assignment
 
 Assign variables with the '=' sign and a vaiable name.
 
@@ -16,7 +16,71 @@ bool_variable_ = True
 
 ```
 
-Variables in python can take a multitide of data types including the simple [[ Datatypes | datatypes ]] above (string, integer, float, boolean). Find more information at [[ Variable Assignment ]].
+Variables in python can take a multitide of data types including the simple [[ Datatypes | datatypes ]] above (string, integer, float, boolean).
+
+
+### Operators
+
+Operators are used to perform operation on an item, these come in several categories.
+
+##### Arithmetic
+
+- `+` -> Addition
+- `-` -> Subtraction
+- `*` -> Multiplication
+- `/` -> Division
+- `%` -> Modulus
+- `**` -> Exponentiation
+- `//` -> Floor division
+
+##### Assignment
+
+- `=` -> Assign
+- `+=` -> Add to current value
+- `-=` -> Subtract from current value
+- `*=` -> Multiply by current value
+- `/=` -> Divide current value by input
+- `%=` -> Find modulus of current value
+- `//=` -> Floor divide current value
+- `**=` -> Get exponential of current value
+- `&=` -> Bitewise `and` and assign
+- `|=` -> Bitewise `or` and assign
+- `^=` -> Bitewise `xor` and assign
+- `>>=` -> Bitewise right shift and assign
+- `<<=` -> Bitewise left shift and assign
+
+##### Comparison
+
+- `==` -> Equal
+- `!=` -> Not equal
+- `>` -> Greater than
+- `<` -> Lesser than
+- `>=` -> Greater than or equal to
+- `<=` -> Lesser than or equal to
+
+##### Logical
+
+- `and` -> Return `True` if both `True`
+- `or` -> Return `True` if any are `True`
+- `not` -> Return `True` if `False`, or `False` if `True`
+
+##### Identity
+
+- `is` -> Returns `True` if both are the same object
+- `is not` -> Returns `True` if both are not the same object
+
+##### Membership
+
+- `in` -> Returns `True` if object in sequence
+- `not in` -> Returns `True` if object not in sequence
+
+##### Bitewise
+
+- `&` -> Sets `1` if both bits are `1`
+- `|` -> Sets `1` if any bit is `1`
+- `^` -> Sets `1` if only one bit is `1`
+- `>>` -> Shift left by pushing zeros in from the right, leftmost fall off
+- `<<` -> Shift right by pushing copies of the leftmost bit in from the left, rightmost fall off
 
 
 ### [[ Select Statements ]]

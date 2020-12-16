@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Datatypes.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -78,12 +78,12 @@
   "lastOpenFiles": [
     "Datatypes.md",
     "Python Cheat Sheet.md",
-    "Classes.md",
-    "Function Definitions.md",
-    "Iteration Statements.md",
-    "Python Intro.md",
-    "Variable Assignment.md",
     "Select Statements.md",
+    "Variable Assignment.md",
+    "Iteration Statements.md",
+    "Function Definitions.md",
+    "Classes.md",
+    "Python Intro.md",
     "Untitled.md"
   ]
 }
