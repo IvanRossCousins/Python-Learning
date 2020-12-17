@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Function Definitions.md",
+            "file": "Classes.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Function Definitions.md"
+                "file": "Classes.md"
               }
             }
           }
@@ -76,9 +76,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Function Definitions.md",
     "Classes.md",
     "Python Cheat Sheet.md",
+    "Function Definitions.md",
     "Iteration Statements.md",
     "Select Statements.md",
     "Datatypes.md",
