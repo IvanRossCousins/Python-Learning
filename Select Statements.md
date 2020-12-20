@@ -48,7 +48,7 @@ if (condition):
 
 	# Run some code
 	
-	if (secondaty_condition):
+	if (secondary_condition):
 	
 		# Then run this code
 
